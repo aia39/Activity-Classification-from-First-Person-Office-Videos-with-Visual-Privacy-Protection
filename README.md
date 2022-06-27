@@ -105,7 +105,7 @@ For **Activity Recognition module**,
 Thanks to [mhealth lab](https://mhealth.buet.ac.bd/) for providing world class research facility. 
 
 ## Activity-Classification-from-First-Person-Office-Videos-with-Visual-Privacy-Protection
-If you find PySlowFast useful in your research, please use the following BibTeX entry for citation.
+If you find 'Activity-Classification-from-First-Person-Office-Videos-with-Visual-Privacy-Protection' useful in your research, please use the following BibTeX entry for citation.
 
 ```BibTeX
 @article{ghosh2020privacy,
