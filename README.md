@@ -99,7 +99,8 @@ For **Activity Recognition module**,
  2.
  
  
- 
+# Demo
+See the youtube [video](https://youtu.be/2TAaFMwkoU0) for the quality of visually privacy protected video. 
  
 ## Acknowledgement 
 Thanks to [mhealth lab](https://mhealth.buet.ac.bd/) for providing world class research facility. 
