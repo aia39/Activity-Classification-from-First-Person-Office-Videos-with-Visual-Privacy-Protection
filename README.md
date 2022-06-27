@@ -16,7 +16,7 @@ Distribution of Sensitive Objects in Different Classes
 | Chat | Person, digital screen, keyboard, laptop, book |
 | Clean | Person  |
 | Drink | Person, Digital Screen |
-| Dryer | Person, Urinal |
+| Dryer | Person, Toilet |
 | Machine | Person, Digital Screen |
 | Microwave | Person |
 | Mobile | Mobile, Digital Screen, Keyboard, Book, Person |
