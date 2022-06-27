@@ -1,0 +1,12 @@
+conda install -c anaconda protobuf
+conda install pillow
+conda install lxml
+conda install cython
+conda install jupyter
+conda install matplotlib
+conda install pandas
+conda install -c menpo opencv
+conda install numpy
+conda install tensorflow
+pip install opencv-contrib-python
+
