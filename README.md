@@ -94,7 +94,7 @@ For **Activity Recognition module**,
    conda install -c anaconda pillow
    conda install numpy matplotlib scikit-learn
    ``` 
- 2. To test videos, place the videos in the test_directory_folder and run [this](https://github.com/aia39/Activity-Classification-from-First-Person-Office-Videos-with-Visual-Privacy-Protection/blob/main/src/Activity_Recognition/test_on_a_directory_of_videos1.py) code. Before using the script place the weight file in the model_checkpoint folder. (Weights will be provided soon)
+ 2. To test videos, place the videos in the *test_directory_folder* and run [this](https://github.com/aia39/Activity-Classification-from-First-Person-Office-Videos-with-Visual-Privacy-Protection/blob/main/src/Activity_Recognition/test_on_a_directory_of_videos1.py) code. Before using the script place the weight file in the *model_checkpoint* folder. (Weights will be provided soon)
  
  3. To train your own model, we have provided here with four models and their corresponding four training script named as *train{i}.py* where i represents the different models. 
  
