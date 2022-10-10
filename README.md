@@ -109,10 +109,12 @@ Thanks to [mhealth lab](https://mhealth.buet.ac.bd/) for providing world class r
 If you find 'Activity-Classification-from-First-Person-Office-Videos-with-Visual-Privacy-Protection' useful in your research, please use the following BibTeX entry for citation.
 
 ```BibTeX
-@article{ghosh2020privacy,
-  title={Privacy-Aware Activity Classification from First Person Office Videos},
+@inproceedings{ghosh2022activity,
+  title={Activity Classification from First-Person Office Videos with Visual Privacy Protection},
   author={Ghosh, Partho and Istiak, Md and Rashid, Nayeeb and Akash, Ahsan Habib and Abrar, Ridwan and Dastider, Ankan Ghosh and Sushmit, Asif Shahriyar and Hasan, Taufiq and others},
-  journal={arXiv preprint arXiv:2006.06246},
-  year={2020}
+  booktitle={Proceedings of International Conference on Fourth Industrial Revolution and Beyond 2021},
+  pages={371--384},
+  year={2022},
+  organization={Springer}
 }
 ```
