@@ -1,5 +1,5 @@
 # Activity-Classification-from-First-Person-Office-Videos-with-Visual-Privacy-Protection
-This is the official repository of the paper titled 'Activity Classification from First Person Office Videos with Visual Privacy Protection' accepted in IC4IR 2021. This is an open source activity (18 classes) recognition from human concerned privacy protected video codebase. We provide both the training and testing scripts along with model weight for any comparison purposes. This repository includes implementations of the following methods
+This is the official repository of the paper titled 'Activity Classification from First Person Office Videos with Visual Privacy Protection' accepted in IC4IR 2021. [Paper link](https://link.springer.com/chapter/10.1007/978-981-19-2445-3_25). This is an open source activity (18 classes) recognition from human concerned privacy protected video codebase. We provide both the training and testing scripts along with model weight for any comparison purposes. This repository includes implementations of the following methods
 * Privacy protected video generation using Mask R-CNN (backbone Inception ResNet V2)
 * Video classification on raw rgb frames.
 * Video classification on blurred (yielded from privacy protection scheme) rgb frames.
